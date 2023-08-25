@@ -1,7 +1,5 @@
 ### Hi there, I'm Luciano 👋
 
-[![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=legitzx&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Legitzx/Legitzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
